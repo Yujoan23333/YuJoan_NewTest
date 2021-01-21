@@ -9,4 +9,5 @@ int main(void)
     getchar();
     getchar();
     getchar();
+    getchar();
 }
